@@ -8,8 +8,8 @@ The article preview component is a simple, responsive web component that display
 
 ### Links
 
--   Solution URL: 
--   Live Site URL: 
+-   Solution URL: https://github.com/thanasispro/article-preview-card
+-   Live Site URL: https://thanasispro.github.io/article-preview-card/
 
 ### Built with
 
